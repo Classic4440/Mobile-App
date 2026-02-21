@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "906511192089",
+    "project_id": "trialv1-c9f2e",
+    "storage_bucket": "trialv1-c9f2e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906511192089:android:655b11cc18ef77c29e5a88",
+        "android_client_info": {
+          "package_name": "com.example.trialv1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDApx_CSD2fclf9nWS4E0kEWjNEjPmOSr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
